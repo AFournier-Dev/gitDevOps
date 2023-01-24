@@ -1,3 +1,6 @@
 serpent
 licorne
 chat
+poisson
+test
+fugu
